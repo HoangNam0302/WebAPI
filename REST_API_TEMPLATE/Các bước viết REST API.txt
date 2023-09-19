@@ -1,0 +1,4 @@
+REST API
+Bước 1: Tạo project netCore API
+Bước 2: Cài đặt Nuget package EF Core
+Bước 3: Tạo thư mục Models chứa các class (lưu trữ mô hình dữ liệu 
